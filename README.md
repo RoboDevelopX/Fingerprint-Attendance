@@ -1,7 +1,5 @@
 # fingerprint-attendance
-Arduino &amp; Biometric (Fingerprint) based attendance system with desktop client. (A final year CS project made at GAC-CBE)
-
-This was one of my projects that i made for my friend's final year CS project back in my college days.
+Arduino &amp; Biometric (Fingerprint) based attendance system with desktop client.
 
 I used Arduino Mega, Adafruit Fingerprint Sensor & 240x320 TFT Display to create the device that records the attendance. And wrote a desktop client that writes students and staffs details to the device. It can also reads the attendance data from device, consolidate it and shows/prints the report.
 
